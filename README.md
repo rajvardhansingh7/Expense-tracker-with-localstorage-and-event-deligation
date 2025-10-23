@@ -17,7 +17,7 @@ It allows users to add, delete, and persist expenses using **Local Storage**, al
 
 ## 🖥️ Demo
 
-![Expense Tracker Demo](demo.png)
+![Expense Tracker Demo](https://github.com/rajvardhansingh7/Expense-tracker-with-localstorage-and-event-deligation/blob/main/image.png)
 
 ---
 
